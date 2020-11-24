@@ -1,0 +1,25 @@
+{
+  "name": "title-odd-number",
+  "version": "1.0.0",
+  "description": "Checks odd number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkhilaG28/title-odd-number.git"
+  },
+  "keywords": [
+    "odd"
+  ],
+  "author": "akki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AkhilaG28/title-odd-number/issues"
+  },
+  "homepage": "https://github.com/AkhilaG28/title-odd-number#readme",
+  "engines": {
+    "node": ">= 8.0.0"
+  }
+}
